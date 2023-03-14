@@ -1,0 +1,7 @@
+@inproceedings{REPO-032,
+    author = {Richard, Alexander and Zollh{\"o}fer, Michael and Wen, Yandong and De la Torre, Fernando and Sheikh, Yaser},
+    booktitle = "Proceedings of the IEEE/CVF International Conference on Computer Vision",
+    pages = "1173--1182",
+    title = "{Meshtalk: 3d Face Animation from Speech Using Cross-modality Disentanglement}",
+    year = "2021"
+}
